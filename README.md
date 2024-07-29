@@ -1,6 +1,6 @@
 <h1 align='center'>Personal Zsh Configuration </h1>
 
-This repository contains my Zsh configuration, designed to enhance your terminal experience with themes, plugins, and useful features.
+<p align='center'>This repository contains my Zsh configuration, designed to enhance your terminal experience with themes, plugins, and useful features.</p>
 ## Installation
 
 1. **Setup zsh**:
