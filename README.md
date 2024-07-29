@@ -1,6 +1,6 @@
 # Personal Zsh Configuration
 
-This repository contains my Zsh configuration, designed to enhance your terminal experience with custom themes, plugins, and useful features.
+This repository contains my Zsh configuration, designed to enhance your terminal experience with themes, plugins, and useful features.
 ## Installation
 
 1. **Setup zsh**:
